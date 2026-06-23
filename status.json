@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-23T01:33:30.240Z",
+  "checkedAt": "2026-06-23T05:50:21.724Z",
   "sites": [
     {
       "name": "AI",
@@ -82,11 +82,11 @@
       "responseMs": null
     },
     {
-      "name": "courses.hamednouri.com",
+      "name": "Courses",
       "url": "https://courses.hamednouri.com",
-      "category": "Portfolio",
-      "status": "down",
-      "httpStatus": null,
+      "category": "Education",
+      "status": "live",
+      "httpStatus": 200,
       "responseMs": null
     },
     {
@@ -378,11 +378,11 @@
       "responseMs": null
     },
     {
-      "name": "wish.hamednouri.com",
+      "name": "Wish",
       "url": "https://wish.hamednouri.com",
-      "category": "Portfolio",
-      "status": "down",
-      "httpStatus": null,
+      "category": "Education",
+      "status": "live",
+      "httpStatus": 200,
       "responseMs": null
     },
     {
