@@ -1,12 +1,12 @@
 {
-  "checkedAt": "2026-07-02T21:55:32.545Z",
+  "checkedAt": "2026-07-02T22:54:21.986Z",
   "sites": [
     {
       "name": "AI",
       "url": "https://ai.hamednouri.com",
       "category": "Portfolio",
-      "status": "live",
-      "httpStatus": 200,
+      "status": "down",
+      "httpStatus": null,
       "responseMs": null
     },
     {
