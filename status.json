@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-09T22:10:12.469Z",
+  "checkedAt": "2026-07-09T22:41:40.318Z",
   "sites": [
     {
       "name": "AI",
@@ -405,6 +405,22 @@
       "name": "JP Solutions",
       "url": "https://jp-solutions.hamednouri.com",
       "category": "Bilingual",
+      "status": "unknown",
+      "httpStatus": null,
+      "responseMs": null
+    },
+    {
+      "name": "Sensei (EN)",
+      "url": "https://sensei.nouri.cc",
+      "category": "Teaching",
+      "status": "unknown",
+      "httpStatus": null,
+      "responseMs": null
+    },
+    {
+      "name": "Sensei (日本語)",
+      "url": "https://sensei-jp.nouri.cc",
+      "category": "Teaching",
       "status": "unknown",
       "httpStatus": null,
       "responseMs": null
