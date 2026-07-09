@@ -36,6 +36,10 @@ const SITES_META = {
   "https://jp.hamednouri.com":           { name: "Japanese Portfolio", category: "Bilingual" },
   "https://jp-solutions.hamednouri.com": { name: "JP Solutions",       category: "Bilingual" },
 
+  // Sensei sites (nouri.cc)
+  "https://sensei.nouri.cc":             { name: "Sensei (EN)",        category: "Teaching" },
+  "https://sensei-jp.nouri.cc":          { name: "Sensei (日本語)",     category: "Teaching" },
+
   // Additional areas
   "https://security.hamednouri.com":     { name: "Security",           category: "Additional" },
   "https://ux.hamednouri.com":           { name: "UX",                 category: "Additional" },
@@ -176,3 +180,4 @@ main().catch(err => {
   console.error(err);
   process.exit(1);
 });
+
